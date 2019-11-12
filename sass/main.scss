@@ -24,7 +24,7 @@ a{
 }
 .nav-link{
   &:hover{
-    color: primary;
+    color: $primary;
   }
   &.active{
     color: $primary;
