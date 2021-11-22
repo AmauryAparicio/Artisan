@@ -2,7 +2,7 @@
 
 e-Commerce front webpage project.
 
-# Features
+## Features
 
 - Automatic image slider at the top
 - Reactive products menu
